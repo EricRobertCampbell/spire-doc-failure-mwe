@@ -5,6 +5,7 @@ This is an MWE for a failure with Spire.Doc when adding a table, possibly relate
 ## Installation
 
 ```bash
+python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
