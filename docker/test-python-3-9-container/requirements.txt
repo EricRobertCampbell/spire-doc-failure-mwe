@@ -1,0 +1,2 @@
+Spire.Doc==12.4.0
+# Spire.Doc==12.6.0
